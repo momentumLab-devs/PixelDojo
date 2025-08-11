@@ -10,6 +10,6 @@ public class mainMenuScript : MonoBehaviour
 
     public void QuitGame()
     {
-        Application.Quit();
+        Application.Quit(); // quit my ass
     }
 }
